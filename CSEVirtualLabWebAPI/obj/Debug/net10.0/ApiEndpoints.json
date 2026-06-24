@@ -1,0 +1,548 @@
+[
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminAuthController",
+    "Method": "Login",
+    "RelativePath": "api/admin-auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Controllers.AdminLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminAuthController",
+    "Method": "Logout",
+    "RelativePath": "api/admin-auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "GetAtmeceDepartments",
+    "RelativePath": "api/Admin/atmece-departments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "GetAutoApproval",
+    "RelativePath": "api/Admin/auto-approval",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "UpdateAutoApproval",
+    "RelativePath": "api/Admin/auto-approval",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.UpdateAutoApprovalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "GetCollegeWise",
+    "RelativePath": "api/Admin/college-wise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "GetCompletionStatus",
+    "RelativePath": "api/Admin/completion-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/Admin/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "GetDepartmentWise",
+    "RelativePath": "api/Admin/department-wise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "UpdateRegistrationStatus",
+    "RelativePath": "api/Admin/registration-status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.UpdateUserRegistrationStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "UpdateSelectedRegistrationStatus",
+    "RelativePath": "api/Admin/registration-status/bulk",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.BulkUserRegistrationStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "GetUserRegistrations",
+    "RelativePath": "api/Admin/user-registrations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "DeleteUserRegistration",
+    "RelativePath": "api/Admin/user-registrations/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "GetUserRequests",
+    "RelativePath": "api/Admin/user-requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AdminController",
+    "Method": "UpdateUserRequest",
+    "RelativePath": "api/Admin/user-requests/{requestId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.UpdateUserRequestRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.LogoutRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.RegisterUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.ChatController",
+    "Method": "AskCProgrammingQuestion",
+    "RelativePath": "api/chat/c-programming",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.CProgrammingChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.ExecutionController",
+    "Method": "Run",
+    "RelativePath": "api/Execution/run",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.CodeExecutionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.LabsController",
+    "Method": "RegisterLab",
+    "RelativePath": "api/Labs/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.RegisterLabRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.LiveExecutionController",
+    "Method": "Status",
+    "RelativePath": "api/LiveExecution/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.ProgressController",
+    "Method": "UpdateAssignmentStatus",
+    "RelativePath": "api/Progress/assignment",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.UpdateAssignmentStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.ProgressController",
+    "Method": "UpdateExecutionStatus",
+    "RelativePath": "api/Progress/execution",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.UpdateExecutionStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.ProgressController",
+    "Method": "UpdateQuizStatus",
+    "RelativePath": "api/Progress/quiz",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.UpdateQuizStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.ProgressController",
+    "Method": "GetQuizAttempt",
+    "RelativePath": "api/Progress/quiz-attempt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "labId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "experimentId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.ReportsController",
+    "Method": "DownloadLabReport",
+    "RelativePath": "api/Reports/lab-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "labId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.TerminalController",
+    "Method": "SendInput",
+    "RelativePath": "api/Terminal/input",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.TerminalInputRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.TerminalController",
+    "Method": "StopExecution",
+    "RelativePath": "api/Terminal/stop/{connectionId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "connectionId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.UserDashboardController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/user-dashboard/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.UserDashboardController",
+    "Method": "CanDownloadCertificate",
+    "RelativePath": "api/user-dashboard/{userId}/can-download-certificate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "labId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.UserDashboardController",
+    "Method": "GetCompletionCertificateData",
+    "RelativePath": "api/user-dashboard/{userId}/certificate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "labId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.UserDashboardController",
+    "Method": "GetLogHistory",
+    "RelativePath": "api/user-dashboard/{userId}/log-history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.UserProfileController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/user-profile/change-password",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.ChangePasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.UserProfileController",
+    "Method": "UpdateProfile",
+    "RelativePath": "api/user-profile/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.UpdateUserProfileRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CSEVirtualLabWebAPI.Controllers.UserRequestsController",
+    "Method": "Create",
+    "RelativePath": "api/user-requests",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CSEVirtualLabWebAPI.Models.CreateUserRequestRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

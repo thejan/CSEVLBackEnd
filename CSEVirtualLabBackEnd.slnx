@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CSEVirtualLabConsoleApp/CSEVirtualLabConsoleApp.csproj" />
+  <Project Path="CSEVirtualLabDataAccessLayer/CSEVirtualLabDataAccessLayer.csproj" />
+  <Project Path="CSEVirtualLabWebAPI/CSEVirtualLabWebAPI.csproj" />
+</Solution>

@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F3922F-62B1-396A-3EF5-357648C483A5}|CSEVirtualLabWebAPI\\CSEVirtualLabWebAPI.csproj|d:\\atme_cse_virtuallab\\csevirtuallabbackend\\csevirtuallabwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F3922F-62B1-396A-3EF5-357648C483A5}|CSEVirtualLabWebAPI\\CSEVirtualLabWebAPI.csproj|solutionrelative:csevirtuallabwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F3922F-62B1-396A-3EF5-357648C483A5}|CSEVirtualLabWebAPI\\CSEVirtualLabWebAPI.csproj|d:\\atme_cse_virtuallab\\csevirtuallabbackend\\csevirtuallabwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36F3922F-62B1-396A-3EF5-357648C483A5}|CSEVirtualLabWebAPI\\CSEVirtualLabWebAPI.csproj|solutionrelative:csevirtuallabwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|d:\\atme_cse_virtuallab\\csevirtuallabbackend\\csevirtuallabdataaccesslayer\\virtuallabrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|solutionrelative:csevirtuallabdataaccesslayer\\virtuallabrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thejan\\Downloads\\SQLQuery23.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697A8896-C152-058B-C2A8-63B3C703E323}|CSEVirtualLabConsoleApp\\CSEVirtualLabConsoleApp.csproj|d:\\atme_cse_virtuallab\\csevirtuallabbackend\\csevirtuallabconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697A8896-C152-058B-C2A8-63B3C703E323}|CSEVirtualLabConsoleApp\\CSEVirtualLabConsoleApp.csproj|solutionrelative:csevirtuallabconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|d:\\atme_cse_virtuallab\\csevirtuallabbackend\\csevirtuallabdataaccesslayer\\userloghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|solutionrelative:csevirtuallabdataaccesslayer\\userloghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|d:\\atme_cse_virtuallab\\csevirtuallabbackend\\csevirtuallabdataaccesslayer\\models\\labstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|solutionrelative:csevirtuallabdataaccesslayer\\models\\labstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|d:\\atme_cse_virtuallab\\csevirtuallabbackend\\csevirtuallabdataaccesslayer\\models\\atmecsevlabcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|solutionrelative:csevirtuallabdataaccesslayer\\models\\atmecsevlabcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thejan\\Downloads\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|d:\\atme_cse_virtuallab\\csevirtuallabbackend\\csevirtuallabdataaccesslayer\\csevirtuallabdataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|solutionrelative:csevirtuallabdataaccesslayer\\csevirtuallabdataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/atmecsevlab/True/SqlTable/dbo.UserActivitySessions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|d:\\atme_cse_virtuallab\\csevirtuallabbackend\\csevirtuallabdataaccesslayer\\userdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BA6AF3-9696-C923-AED7-16AF70107EE2}|CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj|solutionrelative:csevirtuallabdataaccesslayer\\userdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thejan\\Downloads\\SQLQuery23.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thejan\\Downloads\\SQLQuery23.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CSEVirtualLabWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CSEVirtualLabWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T06:30:22.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery23.sql ",
+              "DocumentMoniker": "C:\\Users\\thejan\\Downloads\\SQLQuery23.sql",
+              "ToolTip": "SQLQuery23.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T08:25:56.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CSEVirtualLabWebAPI\\Program.cs",
+              "ToolTip": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabWebAPI\\Program.cs",
+              "RelativeToolTip": "CSEVirtualLabWebAPI\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:58:32.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AtmecsevlabContext.cs",
+              "DocumentMoniker": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\Models\\AtmecsevlabContext.cs",
+              "RelativeDocumentMoniker": "CSEVirtualLabDataAccessLayer\\Models\\AtmecsevlabContext.cs",
+              "ToolTip": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\Models\\AtmecsevlabContext.cs",
+              "RelativeToolTip": "CSEVirtualLabDataAccessLayer\\Models\\AtmecsevlabContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:48:36.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LabStatus.cs",
+              "DocumentMoniker": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\Models\\LabStatus.cs",
+              "RelativeDocumentMoniker": "CSEVirtualLabDataAccessLayer\\Models\\LabStatus.cs",
+              "ToolTip": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\Models\\LabStatus.cs",
+              "RelativeToolTip": "CSEVirtualLabDataAccessLayer\\Models\\LabStatus.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA2wEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T04:19:34.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.UserActivitySessions.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/atmecsevlab/True/SqlTable/dbo.UserActivitySessions.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/atmecsevlab/True/SqlTable/dbo.UserActivitySessions.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-15T18:25:33.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VirtualLabRepository.cs",
+              "DocumentMoniker": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\VirtualLabRepository.cs",
+              "RelativeDocumentMoniker": "CSEVirtualLabDataAccessLayer\\VirtualLabRepository.cs",
+              "ToolTip": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\VirtualLabRepository.cs",
+              "RelativeToolTip": "CSEVirtualLabDataAccessLayer\\VirtualLabRepository.cs",
+              "ViewState": "AgIAANIDAAAAAAAAAAAIwNkDAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:01:56.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "CSEVirtualLabConsoleApp\\Program.cs",
+              "ToolTip": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabConsoleApp\\Program.cs",
+              "RelativeToolTip": "CSEVirtualLabConsoleApp\\Program.cs",
+              "ViewState": "AgIAANYBAAAAAAAAAAAAwOYBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T10:39:48.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLogHistoryDto.cs",
+              "DocumentMoniker": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\UserLogHistoryDto.cs",
+              "RelativeDocumentMoniker": "CSEVirtualLabDataAccessLayer\\UserLogHistoryDto.cs",
+              "ToolTip": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\UserLogHistoryDto.cs",
+              "RelativeToolTip": "CSEVirtualLabDataAccessLayer\\UserLogHistoryDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T18:37:28.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CSEVirtualLabDataAccessLayer.csproj",
+              "DocumentMoniker": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj",
+              "ToolTip": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj",
+              "RelativeToolTip": "CSEVirtualLabDataAccessLayer\\CSEVirtualLabDataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-15T17:01:06.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\thejan\\Downloads\\SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\thejan\\Downloads\\SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-15T11:15:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDashboardDto.cs",
+              "DocumentMoniker": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\UserDashboardDto.cs",
+              "RelativeDocumentMoniker": "CSEVirtualLabDataAccessLayer\\UserDashboardDto.cs",
+              "ToolTip": "D:\\ATME_CSE_VirtualLab\\CSEVirtualLabBackEnd\\CSEVirtualLabDataAccessLayer\\UserDashboardDto.cs",
+              "RelativeToolTip": "CSEVirtualLabDataAccessLayer\\UserDashboardDto.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:57:35.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
